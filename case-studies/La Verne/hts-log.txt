@@ -1,0 +1,176 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Nov 2024 15:15:25 at https://laverne.edu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://laverne.edu/ -O1 "C:\My Web Sites\La Verne" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:15:26	Warning: 	Note: due to https://laverne.edu remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-login.php, /wp-content/cache/, /trackback/, /*/trackback/, /comments/, /*/comments/, /writer/*/page/, /*/writer/*/page/, /author/*/page/, /*/author/*/page/, /events/, /event/*?ical=1*, /*/events/, /*/event/*?ical=1*, /venue/, /*/venue/, /news/tag/, /news/category/*/page/ (see in the options to disable this)
+15:16:47	Warning: 	Moved Permanently for https://laverne.edu/news/for-media/
+15:16:47	Warning: 	File has moved from https://laverne.edu/news/for-media/ to https://laverne.edu/news
+15:16:56	Warning: 	Moved Permanently for https://laverne.edu/visit/
+15:16:56	Warning: 	File has moved from https://laverne.edu/visit/ to https://admissions.laverne.edu/portal/connect
+15:17:47	Warning: 	Moved Permanently for https://laverne.edu/programs/
+15:17:47	Warning: 	File has moved from https://laverne.edu/programs/ to https://admissions.laverne.edu/portal/connect
+15:18:34	Warning: 	Moved Permanently for https://laverne.edu/academics/calendar/
+15:18:34	Warning: 	File has moved from https://laverne.edu/academics/calendar/ to https://laverne.edu/academics/calendars/
+15:20:47	Warning: 	Moved Permanently for https://laverne.edu/about/accreditation/
+15:20:47	Warning: 	File has moved from https://laverne.edu/about/accreditation/ to https://laverne.edu/accreditation/
+15:21:06	Warning: 	Moved Permanently for https://laverne.edu/locations/bakersfield/
+15:21:06	Warning: 	File has moved from https://laverne.edu/locations/bakersfield/ to https://laverne.edu/locations/kern-county-region/
+15:22:13	Error: 	"Not Found" (404) at link https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot (from https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+15:22:13	Error: 	"Not Found" (404) at link https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot? (from https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+15:22:13	Error: 	"Not Found" (404) at link https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff2 (from https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+15:22:13	Error: 	"Not Found" (404) at link https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff (from https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+15:22:13	Error: 	"Not Found" (404) at link https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.ttf (from https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+15:22:13	Error: 	"Not Found" (404) at link https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.svg (from https://laverne.edu/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+15:22:13	Error: 	"Forbidden" (403) at link cloud.typography.com/6093852/7345392/css/fonts.css (from https://laverne.edu/wp-content/themes/laverne2017/style.css?ver=1.2.48)
+15:22:14	Error: 	"Not Found" (404) at link https://laverne.edu/Popover requires tooltip.js (from https://laverne.edu/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+15:22:14	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://laverne.edu/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+15:25:09	Warning: 	Link https://laverne.edu/accounts/cares/ not scanned (follow robots meta tag)
+15:25:27	Warning: 	Moved Permanently for https://laverne.edu/student-life/greek-life/
+15:25:27	Warning: 	File has moved from https://laverne.edu/student-life/greek-life/ to https://laverne.edu/student-life/fraternity-sorority-life/
+15:25:48	Warning: 	Link https://laverne.edu/admitted/ not scanned (follow robots meta tag)
+15:25:48	Warning: 	Moved Permanently for https://laverne.edu/connect/
+15:25:48	Warning: 	File has moved from https://laverne.edu/connect/ to https://admissions.laverne.edu/portal/connect
+15:28:19	Error: 	"Forbidden" (403) at link https://laverne.edu/financial-aid/xmlrpc.php (from https://laverne.edu/financial-aid/)
+15:29:10	Error: 	"Forbidden" (403) at link https://laverne.edu/tuition/xmlrpc.php (from https://laverne.edu/tuition/)
+15:31:46	Error: 	"Forbidden" (403) at link https://laverne.edu/abroad/xmlrpc.php (from https://laverne.edu/abroad/)
+15:32:54	Error: 	"Forbidden" (403) at link https://laverne.edu/acc/xmlrpc.php (from https://laverne.edu/acc/)
+15:33:23	Error: 	"Forbidden" (403) at link https://laverne.edu/experience/xmlrpc.php (from https://laverne.edu/experience/)
+15:37:05	Warning: 	Moved Permanently for https://laverne.edu/president/executive-cabinet/
+15:37:05	Warning: 	File has moved from https://laverne.edu/president/executive-cabinet/ to https://laverne.edu/president/president-cabinet/
+15:38:18	Error: 	"Forbidden" (403) at link https://laverne.edu/president/xmlrpc.php (from https://laverne.edu/president/)
+15:41:09	Warning: 	Moved Permanently for laverne.edu/robots.txt
+15:41:09	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/robots.txt and https://laverne.edu/robots.txt
+15:41:09	Warning: 	Warning moved treated for laverne.edu/robots.txt (real one is https://laverne.edu/robots.txt)
+15:41:09	Warning: 	Moved Permanently for laverne.edu/directory/department-contact-information/
+15:41:09	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/directory/department-contact-information/ and https://laverne.edu/directory/department-contact-information/
+15:41:09	Warning: 	File has moved from laverne.edu/directory/department-contact-information/ to https://laverne.edu/directory/department-contact-information/
+15:41:13	Warning: 	Moved Permanently for https://laverne.edu/locations/virtual-events/
+15:41:13	Warning: 	File has moved from https://laverne.edu/locations/virtual-events/ to https://laverne.edu/admission/adult-learner/events/
+15:41:25	Warning: 	Moved Permanently for https://laverne.edu/programs/accounting-ba/
+15:41:25	Warning: 	File has moved from https://laverne.edu/programs/accounting-ba/ to https://business.laverne.edu/programs/accelerated-bachelor-of-arts-in-accounting/curriculum/
+15:41:29	Error: 	"Forbidden" (403) at link https://laverne.edu/locations/xmlrpc.php (from https://laverne.edu/locations/nbvc/)
+15:41:32	Error: 	"Forbidden" (403) at link https://laverne.edu/news/xmlrpc.php (from https://laverne.edu/news/2024/11/14/first-online-edd-launches/)
+15:44:04	Warning: 	Moved Permanently for https://laverne.edu/oise/getting-an-i-20/
+15:44:04	Warning: 	File has moved from https://laverne.edu/oise/getting-an-i-20/ to https://laverne.edu/issa/getting-an-i-20/
+15:44:04	Warning: 	Moved Permanently for https://laverne.edu/oise/faq/
+15:44:04	Warning: 	File has moved from https://laverne.edu/oise/faq/ to https://laverne.edu/issa/faq/
+15:45:13	Error: 	"Forbidden" (403) at link https://laverne.edu/ge/xmlrpc.php (from https://laverne.edu/ge/)
+15:45:36	Error: 	"Forbidden" (403) at link https://laverne.edu/evaluation/xmlrpc.php (from https://laverne.edu/evaluation/)
+15:47:05	Error: 	"Forbidden" (403) at link https://laverne.edu/accessibility/xmlrpc.php (from https://laverne.edu/accessibility/)
+15:48:28	Warning: 	Moved Permanently for https://laverne.edu/oise/events/
+15:48:28	Warning: 	File has moved from https://laverne.edu/oise/events/ to https://laverne.edu/issa/events/
+15:49:44	Warning: 	Moved Permanently for https://laverne.edu/technology/employee-on-boarding-technology-and-facilities-request-form/
+15:49:44	Warning: 	File has moved from https://laverne.edu/technology/employee-on-boarding-technology-and-facilities-request-form/ to https://laverne.teamdynamix.com/TDClient/1892/Portal/Requests/TicketRequests/NewForm?ID=5f0sZnkaosg_
+15:50:18	Warning: 	Moved Permanently for https://laverne.edu/student-outreach/campaign-for-basic-needs-relief-2/
+15:50:18	Warning: 	File has moved from https://laverne.edu/student-outreach/campaign-for-basic-needs-relief-2/ to https://laverne.edu/student-outreach/campaign-for-basic-needs-relief/
+15:50:23	Error: 	"Forbidden" (403) at link https://laverne.edu/counseling/xmlrpc.php (from https://laverne.edu/counseling/)
+15:50:48	Error: 	"Forbidden" (403) at link https://laverne.edu/health/xmlrpc.php (from https://laverne.edu/health/)
+15:51:22	Error: 	"Forbidden" (403) at link https://laverne.edu/student-affairs/xmlrpc.php (from https://laverne.edu/student-affairs/)
+15:51:47	Warning: 	Moved Permanently for https://laverne.edu/title-lll-hipps/
+15:51:47	Warning: 	File has moved from https://laverne.edu/title-lll-hipps/ to https://laverne.edu/title-lll-hipss/
+15:51:49	Error: 	"Forbidden" (403) at link https://laverne.edu/engagement/xmlrpc.php (from https://laverne.edu/engagement/)
+15:53:24	Warning: 	Moved Permanently for laverne.edu/chaplain/events/
+15:53:24	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/chaplain/events/ and https://laverne.edu/chaplain/events/
+15:53:24	Warning: 	File has moved from laverne.edu/chaplain/events/ to https://laverne.edu/chaplain/events/
+15:53:55	Error: 	"Forbidden" (403) at link https://laverne.edu/advising/xmlrpc.php (from https://laverne.edu/advising/)
+15:54:26	Warning: 	Moved Permanently for https://laverne.edu/academics/calendars/realignment/appendix/
+15:54:26	Warning: 	File has moved from https://laverne.edu/academics/calendars/realignment/appendix/ to https://laverne.edu/academics/calendars/
+15:55:44	Error: 	"Forbidden" (403) at link https://laverne.edu/irb/xmlrpc.php (from https://laverne.edu/irb/)
+15:58:32	Error: 	"Forbidden" (403) at link https://laverne.edu/student-life/xmlrpc.php (from https://laverne.edu/student-life/campus-activities-board/)
+15:58:38	Error: 	"Forbidden" (403) at link https://laverne.edu/step-up/xmlrpc.php (from https://laverne.edu/step-up/)
+15:59:31	Warning: 	Moved Permanently for https://laverne.edu/admission/test-optional/
+15:59:31	Warning: 	File has moved from https://laverne.edu/admission/test-optional/ to https://laverne.edu/admission/traditional-undergraduate/test-optional-policy/
+15:59:37	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/grants-loans/
+15:59:37	Warning: 	File has moved from https://laverne.edu/financial-aid/grants-loans/ to https://laverne.edu/financial-aid/undergraduate/grants-loans/
+15:59:37	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/scholarships/
+15:59:37	Warning: 	File has moved from https://laverne.edu/financial-aid/scholarships/ to https://laverne.edu/financial-aid/undergraduate/scholarships/
+15:59:43	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/funding/
+15:59:43	Warning: 	File has moved from https://laverne.edu/financial-aid/funding/ to https://laverne.edu/financial-aid/cal-grants/
+15:59:43	Error: 	"Forbidden" (403) at link https://laverne.edu/institutional-research/xmlrpc.php (from https://laverne.edu/institutional-research/)
+16:00:04	Warning: 	Moved Permanently for https://laverne.edu/institutional-research/reportspublications/
+16:00:04	Warning: 	File has moved from https://laverne.edu/institutional-research/reportspublications/ to https://laverne.edu/institutional-research/reports-publications/
+16:00:04	Warning: 	Moved Permanently for https://laverne.edu/institutional-research/surveys-and-results/
+16:00:04	Warning: 	File has moved from https://laverne.edu/institutional-research/surveys-and-results/ to https://laverne.edu/institutional-research/surveys-results/
+16:00:20	Error: 	"Forbidden" (403) at link https://laverne.edu/sustainability/xmlrpc.php (from https://laverne.edu/sustainability/)
+16:01:53	Warning: 	Moved Permanently for laverne.edu/technology/banner-version/
+16:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/technology/banner-version/ and https://laverne.edu/technology/banner-version/
+16:01:53	Warning: 	File has moved from laverne.edu/technology/banner-version/ to https://laverne.edu/technology/banner-version/
+16:01:53	Warning: 	Moved Permanently for laverne.edu/technology/ellucian-browser-support-calendar/
+16:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/technology/ellucian-browser-support-calendar/ and https://laverne.edu/technology/ellucian-browser-support-calendar/
+16:01:53	Warning: 	File has moved from laverne.edu/technology/ellucian-browser-support-calendar/ to https://laverne.edu/technology/ellucian-browser-support-calendar/
+16:02:09	Warning: 	Moved Permanently for laverne.edu/technology/current-service-interruptions/
+16:02:09	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/technology/current-service-interruptions/ and https://laverne.edu/technology/current-service-interruptions/
+16:02:09	Warning: 	File has moved from laverne.edu/technology/current-service-interruptions/ to https://laverne.edu/technology/current-service-interruptions/
+16:02:10	Error: 	"Not Found" (404) at link https://laverne.edu/partners/Popover requires tooltip.js (from https://laverne.edu/partners/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:11	Error: 	"Not Found" (404) at link https://laverne.edu/admission/Popover requires tooltip.js (from https://laverne.edu/admission/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:15	Warning: 	Moved Permanently for https://laverne.edu/oise/future-students/getting-an-i-20/
+16:02:15	Warning: 	File has moved from https://laverne.edu/oise/future-students/getting-an-i-20/ to https://laverne.edu/issa/future-students/getting-an-i-20/
+16:02:15	Warning: 	Moved Permanently for https://laverne.edu/oise/future-students/applying-for-visa/
+16:02:15	Warning: 	File has moved from https://laverne.edu/oise/future-students/applying-for-visa/ to https://laverne.edu/issa/future-students/applying-for-visa/
+16:02:17	Error: 	Exit requested by shell or user
+16:02:17	Warning: 	File not added due to mirror cancel: https://laverne.edu/evaluation/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaverne.edu%2Fevaluation%2Farticulation%2Fexams%2F
+16:02:19	Error: 	"Not Found" (404) at link https://laverne.edu/financial-aid/Popover requires tooltip.js (from https://laverne.edu/financial-aid/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:19	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/loans/
+16:02:19	Warning: 	File has moved from https://laverne.edu/financial-aid/loans/ to https://laverne.edu/financial-aid/undergraduate/federal-loans/
+16:02:19	Warning: 	Moved Permanently for https://laverne.edu/admission/accelerated/
+16:02:19	Warning: 	File has moved from https://laverne.edu/admission/accelerated/ to https://laverne.edu/admission/adult-learner/
+16:02:19	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/independent-student/
+16:02:19	Warning: 	File has moved from https://laverne.edu/financial-aid/independent-student/ to https://laverne.edu/financial-aid/appeals-process/independent-student/
+16:02:19	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/disability/
+16:02:19	Warning: 	File has moved from https://laverne.edu/financial-aid/disability/ to https://laverne.edu/financial-aid/appeals-process/disability/
+16:02:19	Warning: 	Moved Permanently for https://laverne.edu/financial-aid/request-increase-students-coa/
+16:02:19	Warning: 	File has moved from https://laverne.edu/financial-aid/request-increase-students-coa/ to https://laverne.edu/financial-aid/appeals-process/request-increase-students-coa/
+16:02:21	Error: 	"Not Found" (404) at link https://laverne.edu/tuition/Popover requires tooltip.js (from https://laverne.edu/tuition/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:21	Warning: 	Moved Permanently for https://laverne.edu/accounts/dates/2020-2021-college-law/
+16:02:21	Warning: 	File has moved from https://laverne.edu/accounts/dates/2020-2021-college-law/ to https://laverne.edu/accounts/dates/2024-2025-college-law/
+16:02:21	Error: 	"Error when decompressing" (-1) at link https://laverne.edu/accounts/fall-2024-physic…ssistant-program/ (from https://laverne.edu/accounts/dates/)
+16:02:21	Warning: 	Moved Permanently for https://laverne.edu/housing/resident-information/dining-services/
+16:02:21	Warning: 	File has moved from https://laverne.edu/housing/resident-information/dining-services/ to https://laverne.edu/housing/dining-services/
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/academics/Popover requires tooltip.js (from https://laverne.edu/academics/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot (from https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot? (from https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff2 (from https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff (from https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.ttf (from https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:22	Error: 	"Not Found" (404) at link https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.svg (from https://laverne.edu/locations/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:23	Error: 	"Not Found" (404) at link https://laverne.edu/locations/Popover requires tooltip.js (from https://laverne.edu/locations/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:23	Warning: 	Moved Permanently for https://laverne.edu/programs/criminal-justice-criminology/
+16:02:23	Warning: 	File has moved from https://laverne.edu/programs/criminal-justice-criminology/ to https://artsci.laverne.edu/sociology/criminology-criminal-justice-bs/
+16:02:23	Warning: 	Moved Permanently for https://laverne.edu/programs/mildmoderate-education-specialist-preliminary-credential/
+16:02:23	Warning: 	File has moved from https://laverne.edu/programs/mildmoderate-education-specialist-preliminary-credential/ to https://education.laverne.edu/certificates/specialist-credential/
+16:02:23	Warning: 	Moved Permanently for https://laverne.edu/locations/bakersfield/request-information/
+16:02:23	Warning: 	File has moved from https://laverne.edu/locations/bakersfield/request-information/ to https://laverne.edu/locations/kern-county-region/request-information/
+16:02:24	Error: 	"Not Found" (404) at link https://laverne.edu/online/Popover requires tooltip.js (from https://laverne.edu/online/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:26	Error: 	"Not Found" (404) at link https://laverne.edu/extended-learning/Popover requires tooltip.js (from https://laverne.edu/extended-learning/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:26	Error: 	"Not Found" (404) at link https://laverne.edu/extended-learning/?page_id=1192 (from https://laverne.edu/extended-learning/onsite-training/)
+16:02:29	Error: 	"Not Found" (404) at link https://laverne.edu/pdc/Popover requires tooltip.js (from https://laverne.edu/pdc/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/abroad/Popover requires tooltip.js (from https://laverne.edu/abroad/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:30	Warning: 	Moved Permanently for https://laverne.edu/abroad/international-travel-with-students-request-form-usdos-level-3/
+16:02:30	Warning: 	Warning moved treated for https://laverne.edu/abroad/international-travel-with-students-request-form-usdos-level-3/ (real one is https://laverne.edu/abroad/wp-content/uploads/sites/45/2021/05/International-Travel-With-Students-Request-Form-USDOS-Level-3.pdf)
+16:02:30	Warning: 	File not added due to mirror cancel: https://laverne.edu/abroad/wp-content/uploads/sites/45/2021/05/International-Travel-With-Students-Request-Form-USDOS-Level-3.pdf
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot (from https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot? (from https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff2 (from https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff (from https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.ttf (from https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:30	Error: 	"Not Found" (404) at link https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.svg (from https://laverne.edu/life/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:31	Error: 	"Not Found" (404) at link https://laverne.edu/life/Popover requires tooltip.js (from https://laverne.edu/life/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:32	Warning: 	Moved Permanently for laverne.edu/ludwick-center/events/
+16:02:32	Warning: 	Redirected link is identical because of 'URL Hack' option: laverne.edu/ludwick-center/events/ and https://laverne.edu/ludwick-center/events/
+16:02:32	Warning: 	File has moved from laverne.edu/ludwick-center/events/ to https://laverne.edu/ludwick-center/events/
+16:02:32	Error: 	"Not Found" (404) at link https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot (from https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:32	Error: 	"Not Found" (404) at link https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.eot? (from https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:32	Error: 	"Not Found" (404) at link https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff2 (from https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:32	Error: 	"Not Found" (404) at link https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.woff (from https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:32	Error: 	"Not Found" (404) at link https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.ttf (from https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:32	Error: 	"Not Found" (404) at link https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/css/fonts/glyphicons-halflings-regular.svg (from https://laverne.edu/acc/wp-content/plugins/ulv_youvisit_embed/styles/css/styles.css?ver=1.0.3)
+16:02:33	Error: 	"Not Found" (404) at link https://laverne.edu/acc/Popover requires tooltip.js (from https://laverne.edu/acc/wp-content/themes/laverne2017/js/header-scripts.min.js?ver=1.1.15)
+16:02:34	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

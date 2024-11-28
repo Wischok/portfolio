@@ -1,0 +1,1 @@
+"use strict";jQuery(document).ready(function(a){function t(a){a.hasClass("loading")?a.removeClass("loading"):a.addClass("loading")}var o=a("#sc-smartboard-container");t(o);var n={action:"get_omnilerts",verify:ajax_object.verify,count:ajax_object.alert_count};a.post(ajax_object.ajax_url,n,function(a){o.html(a),t(o)})});
